@@ -1,3 +1,5 @@
 node_modules/
 .env
 .expo/
+examiq-mobile/node_modules/
+node_modules/
